@@ -151,6 +151,9 @@
         <mxCell id="nW7X3oySglk32Ojcf386-94" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Dental Appointment Request System&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="291" y="25" width="518.91" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nW7X3oySglk32Ojcf386-95" value="&lt;font style=&quot;color: rgb(102, 102, 102);&quot;&gt;Isabelle Chang&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(102, 102, 102);&quot;&gt;3/15/25&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="785.63" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
